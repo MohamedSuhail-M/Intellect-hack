@@ -1,0 +1,7 @@
+{
+  "name": "TruthLens AI",
+  "description": "Credibility Diagnostic Engine and real-time claim verification system against fact-check registries and corroboration engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
